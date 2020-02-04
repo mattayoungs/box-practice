@@ -1,0 +1,39 @@
+#text {
+    width: 300px;
+    background-color: grey;
+    height: 200px;
+    overflow: auto;
+    margin: 10px;
+    border: 2px solid black;
+    padding: 10px;
+  }
+
+
+.important {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+
+.picture {
+    width: 300px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+
+  }
+
+.content {
+    width: 400px;
+    margin: auto;
+    border: 2px solid black;
+
+  }
+
+
+
+/* Add appropriate margin, border, and padding to the text div.   
+Add appropriate border to the image.
+Create a div for all of the page content and center that in the middle of the page.
+Add appropriate border and padding to that div.*/
